@@ -1,0 +1,8 @@
+extends:
+  - stylelint-config-standard
+rules:
+  alpha-value-notation: number
+  color-hex-length: short
+  number-leading-zero: never
+  property-no-vendor-prefix: true
+  rule-empty-line-before: always-multi-line
